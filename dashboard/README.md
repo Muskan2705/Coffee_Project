@@ -29,8 +29,8 @@ The original project notebook is kept unchanged. This dashboard reads the existi
 From the project root:
 
 ```powershell
-& "C:\Users\Aman\AppData\Local\Python\pythoncore-3.14-64\python.exe" -m pip install -r requirements_dashboard.txt
-& "C:\Users\Aman\AppData\Local\Python\pythoncore-3.14-64\python.exe" -m streamlit run dashboard\app.py
+& "C:\Users\Muskan\AppData\Local\Python\pythoncore-3.14-64\python.exe" -m pip install -r requirements_dashboard.txt
+& "C:\Users\Muskan\AppData\Local\Python\pythoncore-3.14-64\python.exe" -m streamlit run dashboard\app.py
 ```
 
 If Python is available normally, this also works:
